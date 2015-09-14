@@ -305,11 +305,11 @@ var translations = {
       local_repo: 'repositorio local ',
       remote_repo: 'repositorio remoto',
       docs: {
-        stash: 'el lugar para esconder modificaciones mientras se trabaja en otra cosa',
+        stash: 'el lugar para reservar modificaciones mientras se trabaja en otra cosa',
         workspace: 'espacio de trabajo local',
         index: 'El índice (o "zona de preparación") contiene una captura del contenido del árbol de trabajo. Esta captura se toma como los contenidos que serán acometidos.',
-        local_repo: 'Un subdirectorio denominado .git que contiene todo los ficheros del repositario que necesites — un esqueleto del repositorio Git. Ramas típicas: <b>master</b>, <b>característica-x</b>, <b>bugfix-y</b>',
-        remote_repo: 'Version(es) de tu proyecto que se alojan en Internet o uno red, asegurando que todos tus cambios quedan a disposición de otros desarrolladores. Por defecto es "origin". Ramas típicas aquí: <b>master</b>, <b>característica-compartida-x</b>, <b>versión-y</b>'
+        local_repo: 'Un subdirectorio denominado .git que contiene todo los ficheros del repositario que necesites — un esqueleto del repositorio Git. Ramas típicas: <b>master</b>, <b>funcionalidad-x</b>, <b>correctivo-y</b>',
+        remote_repo: 'Version(es) de tu proyecto que se alojan en Internet o uno red, asegurando que todos tus cambios quedan a disposición de otros desarrolladores. Por defecto es "origin". Ramas típicas aquí: <b>master</b>, <b>funcionalidad-compartida-x</b>, <b>versión-y</b>'
       }
     },
 
